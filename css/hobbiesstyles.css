@@ -1,0 +1,29 @@
+body {
+  background-color: whitesmoke
+}
+
+p {color: black}
+{font-family: sans-serif}
+
+li {color: black}
+
+h1 {color: black}
+
+h2{color: white;
+font-weight: bold;
+    font-family: verdana;}
+
+a {color: azure;
+    font-family: sans-serif}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18;
+}
+
+.relative.div {
+    position: relative;
+        right: 50px
+            
+}
